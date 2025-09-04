@@ -15,7 +15,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**DBF**|Danbury Fair|Danbury|CT|
 |**DBK**|Deerbrook Mall|Humble|TX|
 |**DFM**|Deptford Mall|Deptford|NJ|
-|**ESC**|Eastridge Shopping Center|San Jose|CA|
+|**ERM**|Eastridge Mall|San Jose|CA|
 |**EXM**|Exton Square Mall|Exton|PA|
 |**FDP**|Fashion District Philadelphia|Philadelphia|PA|
 |**FFC**|Fairfield Commons|Beavercreek|OH|
@@ -85,7 +85,7 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |**RVM**|Westfield Galleria at Roseville|Roseville|CA|
 |**NRM**|Northridge Mall|Salinas|CA|
 |**STG**|Stonestown Galleria|San Francisco|CA|
-|**ESC**|Eastridge Shopping Center|San Jose|CA|
+|**ERM**|Eastridge Mall|San Jose|CA|
 |**MPM**|Main Place Mall|Santa Ana|CA|
 |**TMP**|Promenade Temecula|Temecula|CA|
 |**SWP**|Southwest Plaza|Littleton|CO|
