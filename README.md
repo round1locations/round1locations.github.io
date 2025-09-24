@@ -36,6 +36,42 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |[**NRM**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=4286#summary)|Northridge Mall|Salinas|CA|
 |[**NRS**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=4167#summary)|North Riverside Park Mall|North Riverside|IL|
 |[**NSM**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=5557#summary)|North Star Mall|San Antonio|TX|
+|**APM**|Arlington Parks|Arlington|TX|
+|**ATC**|Arrowhead Towne Center|Glendale|AZ|
+|**BTC**|Burbank Town Center|Burbank|CA|
+|**BWM**|Broadway Mall|Hicksville|NY|
+|**CCM**|Coronado Center|Albuquerque|NM|
+|**CHF**|Chandler Fashion Center|Chandler|AZ|
+|**CLM**|Cumberland Mall|Atlanta|GA|
+|**CRG**|Galleria at Crystal Run|Middletown|NY|
+|**DBF**|Danbury Fair|Danbury|CT|
+|**DBK**|Deerbrook Mall|Humble|TX|
+|**DFM**|Deptford Mall|Deptford|NJ|
+|**ESC**|Eastridge Shopping Center|San Jose|CA|
+|**EXM**|Exton Square Mall|Exton|PA|
+|**FDP**|Fashion District Philadelphia|Philadelphia|PA|
+|**FFC**|Fairfield Commons|Beavercreek|OH|
+|**FSM**|Four Seasons Town Centre|Greensboro|NC|
+|**FVM**|Fox Valley Mall|Aurora|IL|
+|**GLC**|Great Lakes Crossing|Auburn Hills|MI|
+|**GLM**|Great Lakes Mall|Mentor|OH|
+|**GUR**|Gurnee Mills|Gurnee|IL|
+|**GVM**|Grapevine Mills|Grapevine|TX|
+|**GWM**|Gateway Mall|Lincoln|NE|
+|**HYM**|Holyoke Mall at Ingleside|Holyoke|MA|
+|**JFM**|Jefferson Mall|Louisville|KY|
+|**JSG**|The Mills at Jersey Gardens|Elizabeth|NJ|
+|**LAS**|Meadows Mall|Las Vegas|NV|
+|**LVO**|Las Vegas South Premium Outlets|Las Vegas|NV|
+|**LWM**|Lakewood Center Mall|Lakewood|CA|
+|**MCM**|Millcreek Mall|Erie|PA|
+|**MEM**|Maine Mall|South Portland|ME|
+|**MPM**|Main Place Mall|Santa Ana|CA|
+|**MVJ**|The Shops at Mission Viejo|Mission Viejo|CA|
+|**MVM**|Moreno Valley Mall|Moreno Valley|CA|
+|**NRM**|Northridge Mall|Salinas|CA|
+|**NRS**|North Riverside Park Mall|North Riverside|IL|
+|**NSM**|North Star Mall|San Antonio|TX|
 |**NWD**|Northwoods Mall|Peoria|IL|
 |[**PBO**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=7905#summary)|Westfield Plaza Bonita|National City|CA|
 |[**PCC**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=4985#summary)|Park City Center|Lancaster|PA|
@@ -53,6 +89,8 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |[**SRM**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=4362#summary)|Southridge Mall|Greendale|WI|
 |**SSM**|Stratford Square Mall|Bloomingdale|IL|
 |[**STC**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=3998#summary)|Shops at South Town|Sandy|UT|
+|**STC**|Shops at South Town|Sandy|UT|
+|**STG**|Stonestown Galleria|San Francisco|CA|
 |**STM**|The Mall at Stonecrest|Stonecrest|GA|
 |[**SVM**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=3704#summary)|Sunvalley Mall|Concord|CA|
 |[**SWP**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=3916#summary)|Southwest Plaza|Littleton|CO|
@@ -90,6 +128,27 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |[**DBF**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=7955#summary)|Danbury Fair|Danbury|CT|
 |[**PLM**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=4978#summary)|Pembroke Lakes Mall|Pembroke Pines|FL|
 |[**CLM**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=4979#summary)|Cumberland Mall|Atlanta|GA|
+|**CHF**|Chandler Fashion Center|Chandler|AZ|
+|**ATC**|Arrowhead Towne Center|Glendale|AZ|
+|**PPM**|Park Place Mall|Tuscon|AZ|
+|**BTC**|Burbank Town Center|Burbank|CA|
+|**PHM**|Puente Hills Mall|City of Industry|CA|
+|**SVM**|Sunvalley Mall|Concord|CA|
+|**SLM**|Southland Mall|Hayward|CA|
+|**LWM**|Lakewood Center Mall|Lakewood|CA|
+|**MVJ**|The Shops at Mission Viejo|Mission Viejo|CA|
+|**MVM**|Moreno Valley Mall|Moreno Valley|CA|
+|**PBO**|Westfield Plaza Bonita|National City|CA|
+|**RVM**|Westfield Galleria at Roseville|Roseville|CA|
+|**NRM**|Northridge Mall|Salinas|CA|
+|**STG**|Stonestown Galleria|San Francisco|CA|
+|**ESC**|Eastridge Shopping Center|San Jose|CA|
+|**MPM**|Main Place Mall|Santa Ana|CA|
+|**TMP**|Promenade Temecula|Temecula|CA|
+|**SWP**|Southwest Plaza|Littleton|CO|
+|**DBF**|Danbury Fair|Danbury|CT|
+|**PLM**|Pembroke Lakes Mall|Pembroke Pines|FL|
+|**CLM**|Cumberland Mall|Atlanta|GA|
 |**STM**|The Mall at Stonecrest|Stonecrest|GA|
 |[**FVM**](https://zenius-i-vanisher.com/v5.2/arcade.php?id=3956#summary)|Fox Valley Mall|Aurora|IL|
 |**SSM**|Stratford Square Mall|Bloomingdale|IL|
@@ -135,6 +194,37 @@ Finally all in one place; no more feeling out of the loop when someone refers to
 |[**TES**](N/A)|Town East Square|Wichita|KS|
 |[**JFM**](N/A)|Jefferson Mall|Louisville|KY|
 |[**SCG**](N/A)|Silver City Galleria|Taunton|MA|
+|**TTC**|Towson Town Center|Towson|MD|
+|**MEM**|Maine Mall|South Portland|ME|
+|**GLC**|Great Lakes Crossing|Auburn Hills|MI|
+|**FSM**|Four Seasons Town Centre|Greensboro|NC|
+|**GWM**|Gateway Mall|Lincoln|NE|
+|**DFM**|Deptford Mall|Deptford|NJ|
+|**JSG**|The Mills at Jersey Gardens|Elizabeth|NJ|
+|**CCM**|Coronado Center|Albuquerque|NM|
+|**LAS**|Meadows Mall|Las Vegas|NV|
+|**LVO**|Las Vegas South Premium Outlets|Las Vegas|NV|
+|**RNO**|Meadowood Mall|Reno|NV|
+|**BWM**|Broadway Mall|Hicksville|NY|
+|**CRG**|Galleria at Crystal Run|Middletown|NY|
+|**FFC**|Fairfield Commons|Beavercreek|OH|
+|**GLM**|Great Lakes Mall|Mentor|OH|
+|**QSM**|Quail Springs Mall|Oklahoma City|OK|
+|**VRC**|Valley River Center|Eugene|OR|
+|**MCM**|Millcreek Mall|Erie|PA|
+|**EXM**|Exton Square Mall|Exton|PA|
+|**PCC**|Park City Center|Lancaster|PA|
+|**FDP**|Fashion District Philadelphia|Philadelphia|PA|
+|**APM**|Arlington Parks|Arlington|TX|
+|**GVM**|Grapevine Mills|Grapevine|TX|
+|**DBK**|Deerbrook Mall|Humble|TX|
+|**NSM**|North Star Mall|San Antonio|TX|
+|**STC**|Shops at South Town|Sandy|UT|
+|**PMM**|Potomac Mills|Woodbridge|VA|
+|**SHM**|South Hill Mall|Puyallup|WA|
+|**SCM**|Westfield Southcenter|Tukwila|WA|
+|**VCM**|Vancouver Mall|Vancouver|WA|
+|**SRM**|Southridge Mall|Greendale|WI|
 </details>
 <details><summary><i>Something missing?</i></summary>
 
