@@ -1,0 +1,11 @@
+# variables
+title: 🎳 Round1 Location Index
+description: An unofficial list of 3-letter store codes for Round1 arcades.
+
+# File management
+exclude: ["README.md"]
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
