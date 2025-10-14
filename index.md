@@ -23,6 +23,6 @@ layout: home
 </table>
 
 Click column headers to re-sort the table, or click a shop code to view its page on Zenius-i-Vanisher.
-To contribute to this list, please visit [the github repository](https://github.com/edm64/round1-location-index).
+To contribute to this list, please visit [the github repository](https://github.com/round1locations/round1locations.github.io).
 
 *This community resource is not affiliated with or endorsed by Round1 Entertainment Inc.*

@@ -1,7 +1,7 @@
 # Round1 Location Index
 
-The table has been moved to GitHub Pages. Bookmark this instead:
-## https://edm64.github.io/round1-location-index
+The table is hosted on GitHub Pages. Bookmark this instead:
+## https://round1locations.github.io
 
 ### How to Contribute
 
